@@ -18,3 +18,5 @@ This project is to help people understand how to build and structure a web app u
 
 ## Disclaimer
 This repo is not intended to say this is the best way to make a React / Redux App, it is intended to help people get an idea of how I would write React / Redux code when creating a Web App. Feel free to contribute to this by creating a pull request :)
+
+CHANGED
